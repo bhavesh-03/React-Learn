@@ -1,0 +1,9 @@
+.products {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+.alert alert-success {
+  color: green;
+  position: fixed;
+  overflow:hidden
+}
